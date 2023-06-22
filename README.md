@@ -1,4 +1,4 @@
-[![Step 0, Welcome](https://github.com/shanti91/skills-test-with-actions/actions/workflows/0-welcome.yml/badge.svg?branch=ci)](https://github.com/shanti91/skills-test-with-actions/actions/workflows/0-welcome.yml)
+[![Step 0, Welcome](https://github.com/shanti91/skills-test-with-actions/actions/workflows/0-welcome.yml/badge.svg?branch=ci)](https://github.com/shanti91/skills-test-with-actions/actions/workflows/0-welcome.yml/badge.svg?branch=ci)
 <header>
 
 <!--
